@@ -38,6 +38,9 @@ struct CardView: View {
     }
 }
 
+//version 1.0
+
 #Preview {
     ContentView()
 }
+
